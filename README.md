@@ -1,4 +1,3 @@
-A simple Python auto-clicker using PyAutoGUI that automates mouse movements and clicks with configurable wait times.
 # Auto Clicker
 
 A simple Python-based auto-clicker built using PyAutoGUI. It automates mouse movement and clicking with customizable delay/wait times between actions.
